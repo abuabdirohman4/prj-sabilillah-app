@@ -1,0 +1,8 @@
+[submodule "sabilillah-app-v1"]
+	path = sabilillah-app-v1
+	url = git@github.com:abuabdirohman4/sabilillah-app-v1.git
+	branch = develop
+[submodule "sabilillah-app-v2"]
+	path = sabilillah-app-v2
+	url = git@github.com:abuabdirohman4/sabilillah-app-v2.git
+	branch = develop
