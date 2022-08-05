@@ -1,1 +1,1 @@
-# prj-sabilillah-app
+# Sabilillah App
